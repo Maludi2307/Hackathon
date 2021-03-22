@@ -1,6 +1,6 @@
-package fr.sogetilabs.cheminenchante.produit;
+package fr.sogetilabs.cheminenchante.repository;
 
-import fr.sogetilabs.cheminenchante.univers.Univers;
+import fr.sogetilabs.cheminenchante.model.Produit;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 

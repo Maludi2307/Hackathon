@@ -1,4 +1,4 @@
-package fr.sogetilabs.cheminenchante.univers;
+package fr.sogetilabs.cheminenchante.service;
 
 import org.springframework.data.annotation.Id;
 

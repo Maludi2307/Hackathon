@@ -1,4 +1,4 @@
-package fr.sogetilabs.cheminenchante.produit;
+package fr.sogetilabs.cheminenchante.model;
 
 import org.springframework.data.annotation.Id;
 
